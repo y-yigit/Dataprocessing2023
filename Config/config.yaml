@@ -1,0 +1,8 @@
+samples:
+  - SRR072232
+  - SRR072233
+
+output_dir: Out
+reference: Data/SILVA_138.1_SSUParc_tax_silva.fasta.gz
+adapter: Data/NexteraPE-PE.fa
+primers_bed: Data/primers.bed
